@@ -2,7 +2,7 @@ import streamlit as st
 import joblib
 
 # Load the trained model
-model = joblib.load("../model/lr_model.pkl")
+model = joblib.load("model/lr_model.pkl")
 
 # Page title
 st.title("Salary Prediction App")

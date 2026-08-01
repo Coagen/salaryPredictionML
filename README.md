@@ -2,6 +2,10 @@
 
 A simple machine learning project that predicts salary based on years of experience.
 
+# Deployment Link
+
+https://salarypredictionml-kkndkufjghka2hke5vzqze.streamlit.app/
+
 ## Technologies
 
 - Python
